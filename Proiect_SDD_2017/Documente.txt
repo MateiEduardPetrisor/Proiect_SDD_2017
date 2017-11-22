@@ -1,0 +1,11 @@
+0^^^Document 1^^^334^^^Andrei^^^1^^^
+1^^^Doucment 2^^^100^^^Ileana^^^2^^^
+2^^^Document 3^^^200^^^Cristi^^^3^^^
+3^^^Document 4^^^167^^^Maria^^^4^^^
+4^^^Document 5^^^22^^^Irina^^^5^^^
+10^^^Document 6^^^22^^^Matei^^^1^^^
+25^^^Document 7^^^89^^^Ana^^^3^^^
+21^^^Document 8^^^12^^^Oscar^^^4^^^
+31^^^Document 9^^^8^^^David^^^5^^^
+17^^^Document 9^^^12^^^Ion^^^2^^^
+29^^^Document 10^^^46^^^Andreea^^^1^^^

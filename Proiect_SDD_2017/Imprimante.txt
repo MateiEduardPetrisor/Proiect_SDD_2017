@@ -1,0 +1,6 @@
+301^^^1^^^1^^^1^^^!@#^^^101^^^sample text for first document^^^10^^^Cristiana Lucaci^^^4^^^2,101,301^^^
+401^^^1^^^5^^^0^^^+++^^^105^^^sample text for second document^^^8^^^Matei Petrisor^^^1^^^3,301,201,101^^^
+101^^^0^^^10^^^0^^^###^^^109^^^sample text for third document^^^17^^^Ileana Ioana^^^3^^^1,401^^^
+401^^^1^^^15^^^1^^^!@#^^^107^^^sample text for fourth document^^^12^^^Irina Vlad^^^2^^^1,101^^^
+404^^^1^^^20^^^1^^^&&&^^^110^^^sample text for fifth document^^^15^^^Popa Badea^^^5^^^2,101,301^^^
+501^^^0^^^22^^^0^^^%%%^^^108^^^sample text for sixth document^^^19^^^Iulian Marian^^^6^^^4,101,401,404,301^^^
